@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EndtoEndAutomation">
+	<test name="EndtoEndAutomation">
+		<classes>
+			<class name="com.demo.blog.BDDRunner_testNG" />
+		</classes>
+	</test>
+</suite>
